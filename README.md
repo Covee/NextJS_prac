@@ -1,4 +1,5 @@
 # NextJS_prac
+- [튜토리얼 목차](https://jcon.tistory.com/124)
 
 ## NEXT.js의 기능
  - 기본적으로 서버사이드 렌더링 지원 합니다
